@@ -43,10 +43,11 @@ const about = () => {
           </div>
 
           <p>
-          Instead, always use Hooks at the top level of your React function, before any early returns. By following this rule, you ensure that Hooks are called in the same order each time a component renders. Thats what allows React to correctly preserve the state of Hooks between multiple useState and useEffect calls.
-           If youre curious, well explain this in depth below.
-          By following this rule, you ensure that all stateful logic in a component is clearly visible from its source code.
-          So how does React know which state corresponds to which useState call? The answer is that React relies on the order in which Hooks are called. Our example works because the order of the Hook calls is the same on every render
+          Khanya Meyiswa has a profound passion of Science, Business and Technology. Engaged in the creative process he feels more alive than ever, because he is making something and not merely consuming. He believes all knowledge is connected to all other knowledge and the fun is in making those connections.
+
+He is excessively curious and is concerned in combining the 'what' and the 'how'. He is not satisfied knowing that it works, he wants to know how it works. He enjoys startup environments that follows a 'fail fast, learn fast' ethos because they offer the greatest possibilities for learning. The goal is to explore and grow.
+
+He is a minimalist and would often say the most with the least. A wise man once said nothing.
           </p>
 
           <a href="#contact" className='btn btn-primary'> Let's Talk</a>

@@ -18,25 +18,25 @@ const data  = [
   {
     avatar: AVTR1,
     name:"Name 1",
-    review: "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Nisi libero saepe illo explicabo culpa dignissimos quasi ex minus, nesciunt, ratione aut nostrum qui delectus! Minus eligendi adipisci eum iure nihil!"
+    review: "Coming Soon..."
   },
 
   {
     avatar: AVTR2,
     name:"Name 2",
-    review: "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Nisi libero saepe illo explicabo culpa dignissimos quasi ex minus, nesciunt, ratione aut nostrum qui delectus! Minus eligendi adipisci eum iure nihil!"
+    review: "Coming Soon..."
   },
 
   {
     avatar: AVTR3,
     name:"Name 3",
-    review: "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Nisi libero saepe illo explicabo culpa dignissimos quasi ex minus, nesciunt, ratione aut nostrum qui delectus! Minus eligendi adipisci eum iure nihil!"
+    review: "Coming Soon..."
   },
 
   {
     avatar: AVTR4,
     name:"Name 4",
-    review: "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Nisi libero saepe illo explicabo culpa dignissimos quasi ex minus, nesciunt, ratione aut nostrum qui delectus! Minus eligendi adipisci eum iure nihil!"
+    review: "Coming Soon..."
   }
   
 ]

@@ -11,7 +11,7 @@ const services = () => {
 
         <div className="container services_container">
 
-          <article className="service">
+          {/* <article className="service">
             <div className="service_head">
               <h3>UI/UX Design</h3>
             </div>
@@ -46,7 +46,7 @@ const services = () => {
               </ul>
 
           </article>
-          {/* END OF UI/UX */}
+          END OF UI/UX */}
 
 
           <article className="service">
@@ -58,32 +58,17 @@ const services = () => {
 
                 <li>
                   <BiCheck className="service_list-icon"/>
-                  <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit.</p>
+                  <p>Website Creation</p>
                 </li>
 
                 <li>
                   <BiCheck className="service_list-icon"/>
-                  <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit.</p>
+                  <p>Web hosting</p>
                 </li>
 
                 <li>
                   <BiCheck className="service_list-icon"/>
-                  <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit.</p>
-                </li>
-
-                <li>
-                  <BiCheck className="service_list-icon"/>
-                  <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit.</p>
-                </li>
-
-                <li>
-                  <BiCheck className="service_list-icon"/>
-                  <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit.</p>
-                </li>
-
-                <li>
-                  <BiCheck className="service_list-icon"/>
-                  <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit.</p>
+                  <p>Domain creation</p>
                 </li>
 
               </ul>
@@ -94,34 +79,24 @@ const services = () => {
 
           <article className="service">
             <div className="service_head">
-              <h3>CONTENT CREATION</h3>
+              <h3>GRAPHIC DESIGN</h3>
             </div>
 
               <ul className='service_list'>
 
                 <li>
                   <BiCheck className="service_list-icon"/>
-                  <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit.</p>
+                  <p>POSTERS</p>
                 </li>
 
                 <li>
                   <BiCheck className="service_list-icon"/>
-                  <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit.</p>
+                  <p>LOGOS</p>
                 </li>
 
                 <li>
                   <BiCheck className="service_list-icon"/>
-                  <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit.</p>
-                </li>
-
-                <li>
-                  <BiCheck className="service_list-icon"/>
-                  <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit.</p>
-                </li>
-
-                <li>
-                  <BiCheck className="service_list-icon"/>
-                  <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit.</p>
+                  <p>VIDEO ADVERTS</p>
                 </li>
 
               </ul>
