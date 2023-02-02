@@ -13,6 +13,7 @@ header{
 /* ================= CTA ======================= */
 .cta{
     margin-top: 2.5rem;
+    /* margin-bottom: 2.5rem; */
     display: flex;
     gap: 1.2rem;
     justify-content: center;
@@ -51,7 +52,7 @@ header{
     margin-top: 4rem;
     border-radius: 12rem 12rem 0 0;
     overflow: hidden;
-    padding: 5rem 1.5rem 1.5rem 1.5rem;
+    /* padding: 5rem 1.5rem 1.5rem 1.5rem; */
 }
 
 /* =============== SCROLL DOWN ====================== */
@@ -96,7 +97,9 @@ header{
 
 
 
-
+.header_container {
+    align-items: stretch;
+}
 
 
 
